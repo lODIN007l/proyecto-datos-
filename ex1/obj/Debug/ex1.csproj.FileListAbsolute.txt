@@ -1,0 +1,14 @@
+C:\Users\TecnoSystem J&F\Desktop\proyecto datos\ex1\ex1\bin\Debug\ex1.exe.config
+C:\Users\TecnoSystem J&F\Desktop\proyecto datos\ex1\ex1\bin\Debug\ex1.exe
+C:\Users\TecnoSystem J&F\Desktop\proyecto datos\ex1\ex1\bin\Debug\ex1.pdb
+C:\Users\TecnoSystem J&F\Desktop\proyecto datos\ex1\ex1\obj\Debug\ex1.csprojAssemblyReference.cache
+C:\Users\TecnoSystem J&F\Desktop\proyecto datos\ex1\ex1\obj\Debug\ex1.csproj.CoreCompileInputs.cache
+C:\Users\TecnoSystem J&F\Desktop\proyecto datos\ex1\ex1\obj\Debug\ex1.exe
+C:\Users\TecnoSystem J&F\Desktop\proyecto datos\ex1\ex1\obj\Debug\ex1.pdb
+E:\proyecto datos\ex1\ex1\bin\Debug\ex1.exe.config
+E:\proyecto datos\ex1\ex1\bin\Debug\ex1.exe
+E:\proyecto datos\ex1\ex1\bin\Debug\ex1.pdb
+E:\proyecto datos\ex1\ex1\obj\Debug\ex1.csprojAssemblyReference.cache
+E:\proyecto datos\ex1\ex1\obj\Debug\ex1.csproj.CoreCompileInputs.cache
+E:\proyecto datos\ex1\ex1\obj\Debug\ex1.exe
+E:\proyecto datos\ex1\ex1\obj\Debug\ex1.pdb

@@ -1,0 +1,1 @@
+Una tabla Hash es un contenedor asociativo (tipo Diccionario) que permite un almacenamiento y posterior recuperación eficientes de elementos (denominados valores) a partir de otros objetos, llamados claves. Tras esta explicación preliminar vamos a entrar en detalle.
